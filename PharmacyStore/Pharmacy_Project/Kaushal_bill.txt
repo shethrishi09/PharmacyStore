@@ -1,0 +1,18 @@
+Medicine Purchase Bill
+----------------------------------
+User Name: Kaushal
+Medicine ID: 2
+Medicine Name: Cyanocobalamin
+Quantity: 1
+Price per unit: 35.12
+Total Price: 35.12
+----------------------------------
+Medicine Purchase Bill
+----------------------------------
+User Name: Kaushal
+Medicine ID: 1
+Medicine Name: paracetamol tablet
+Quantity: 1
+Price per unit: 17.95
+Total Price: 17.95
+----------------------------------

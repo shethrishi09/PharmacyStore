@@ -1,0 +1,8 @@
+->username-password-name-email-phone_number
+LifeCare,1234,LifeCarePharma,Life@gmail.com,12321211211
+Cipla,Cipla@121,Cipla PVT LTD.,Cipla_pvt@gmail.com,9988776655
+AppleP,1234,ApplePharma,Apple1@gmail.com,8897897778ApoloPharma,12341,Apolo,ApoloP@gmail.com,9988776655
+Apolo,12341,ApoloPharma,Pharma@gmail.com,9988776655
+HealthCraft,9898,HealthCraft LTD.,health@gmail.com,6355453345
+Medmex,4532,MEDMEX,care@gmail.com,9534736746
+tytyt,tytt,name,dfdfdf@gmail.com,@@@@@@@@@@

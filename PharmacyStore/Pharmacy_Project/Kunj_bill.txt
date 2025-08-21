@@ -1,0 +1,9 @@
+Medicine Purchase Bill
+----------------------------------
+User Name: Kunj
+Medicine ID: 2
+Medicine Name: Cyanocobalamin 1000mg
+Quantity: 1
+Price per unit: 35.12
+Total Price: 35.12
+----------------------------------
